@@ -224,13 +224,13 @@ KELEBIHAN BOTZ
 LIST HARGA SEWA BOTZ
 ▢ PERHARI 2K
 ▢ PERMINGGU 5K
-▢ PERBULAN 15K
-▢ PERMANEN 40K
+▢ PERBULAN 10K
+▢ PERMANEN 20K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/6281938835391
 
-YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+YG MAU TOP UP GAME HUBUNGI NO DIBAWAH
+wa.me/6281938835391`
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -335,23 +335,7 @@ SEDANGMAINTENANCE / PROSES PEMBUATAN
 }
 exports.dewasaMenu = (prefix) => {
 return`
-*────❲DEWASA MENU❳────*
-
-▢ ${prefix}xnxx *link*
-▢ ${prefix}xnxxsearch
-▢ ${prefix}asupan
-▢ ${prefix}randombokep
-▢ ${prefix}desah
-▢ ${prefix}desah1
-▢ ${prefix}desah2
-▢ ${prefix}desah3
-▢ ${prefix}desah4
-▢ ${prefix}desah5
-▢ ${prefix}desah6
-
-
-NOTE:
-_ANAK DI BAWAH UMUR 18 TAHUN JANGAN GUNAKAN FITUR INI NANTI LU SANGE🗿_
+*────MAU CARI APA?─
 `}
 exports.soundMenu = (prefix) => {
 return`
@@ -429,7 +413,7 @@ return`
 
 `}
 exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount, sender, baterai) => {
-    return `━━━━━『DHA BOTZ』━━━━━
+    return `━━━━━『BOTZ-NABIL』━━━━━
 
 𝗜𝗡𝗙𝗢 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗕𝗢𝗧
 ❏ NAMA : *${pushname}*
@@ -438,9 +422,9 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *DHA BOTZ*
+❏ NAMA : *BOTZ-NABIL*
 ❏ API : @6282288265627
-❏ OWNER : *YUDHA PERDANA*
+❏ OWNER : *Nabil*
 ❏ API : *@6282W87486762*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
@@ -826,4 +810,4 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 *▢ ${prefix}memeindo*
 *▢ ${prefix}darkjoke*
 
-©𝑪𝒓𝒆𝒂𝒕𝒐𝒓 𝒃𝒚 𝒚𝒖𝒅𝒉𝒂 𝒑𝒆𝒓𝒅𝒂𝒏𝒂`}
+©𝑪𝒓𝒆𝒂𝒕𝒐𝒓 𝒃𝒚 Nabil`}
